@@ -25,14 +25,14 @@ Isometric - Low Poly
 Funciones Prototipo:
 Lucha
 Escenarios Rogue-Like
-Funcionalidad única
+Funcionalidad única : inteligencia artificial en los enemigos
 
 Funciones prototipo:
 
-Mundo
-Cambiar de escena rouge - like
+Cambiar de escena Rouge - like
 Mover personaje
 Atacar
+Interacción con enemigos
 
 Procesos de la historia:
 1. Introducción
