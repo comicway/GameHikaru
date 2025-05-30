@@ -22,22 +22,29 @@ Onimusha
 Estilo:
 Isometric - Low Poly
 
-Funciones Prototipo:
-Lucha
-Escenarios Rogue-Like
-Funcionalidad única : inteligencia artificial en los enemigos
-
 Funciones prototipo:
 
 Cambiar de escena Rouge - like
 Mover personaje
 Atacar
 Interacción con enemigos
+Funcionalidad única : inteligencia artificial en los enemigos
 
 Procesos de la historia:
 1. Introducción
 2. Hiraku aparece en su casa, él estaba escondido, todo su familia esta muerta, sale hacia el exterior
-3. Es un pequeño pueblo (tres casas rodeado de arboles), Hiraku habla con un anciano
+3. Es un pequeño pueblo (tres casas rodeado de arboles), Hiraku sigue un rastro hasta la entrada del bosque
+4. Empieza la aventura Rouge - like, dentro del bosque se entera de la espada mágina, una oportunidad para rescatar a su gente
+
+Escenas:
++ Introduccion animado sencillo, voz en off
++ Casa de hikaru
++ Pueblo 3 casas rodeado de arboles
++ Camino con letrero
++ Entrada del bosque
++ 1er salón, no cambia, puede cambiar los enemigos
++ Salones Rouge - like
+
 
 Nombre de la plataforma para la entrega final:
 
